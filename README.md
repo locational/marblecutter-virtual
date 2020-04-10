@@ -1,5 +1,7 @@
 # marblecutter-virtual
 
+*ADAPTATION* Change PORT to run on Google Cloud Run (8080)
+
 ![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/olivierdalang/marblecutter-virtual.svg)
 
 I am a tile server for HTTP(S)-accessible [Cloud Optimized GeoTIFFs
